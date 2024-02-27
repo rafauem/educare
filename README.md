@@ -15,3 +15,11 @@
 # 2 EM :open_file_folder:
 
 # 3 EM :open_file_folder:
+
+:closed_book: [Aula 01](https://github.com/rafauem/educare/blob/main/docs/3EMAula01.pdf)
+
+:green_book: [Aula 02](https://github.com/rafauem/educare/blob/main/docs/3EMAula02.pdf)
+
+:blue_book: [Aula 03]()
+
+:orange_book: [Aula 04]()
