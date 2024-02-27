@@ -6,6 +6,8 @@
 
 # 8 Ano :open_file_folder:
 
+:notebook: [Resumo: Congruência de Triângulos](https://github.com/rafauem/educare/blob/main/docs/8a-congruencia-triangulo.pdf)
+
 # 9 Ano :open_file_folder:
 
 # 1 EM :open_file_folder:
