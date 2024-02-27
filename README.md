@@ -6,7 +6,11 @@
 
 # 8 Ano :open_file_folder:
 
-:notebook: [Resumo: Congruência de Triângulos](https://github.com/rafauem/educare/blob/main/docs/8a-congruencia-triangulo.pdf)
+:triangular_ruler: [Resumo: Congruência de Triângulos](https://github.com/rafauem/educare/blob/main/docs/8a-congruencia-triangulo.pdf)
+
+:pencil2:
+
+:straight_ruler:
 
 # 9 Ano :open_file_folder:
 
