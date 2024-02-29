@@ -3,6 +3,7 @@
 </p>
 
 # 7 Ano :open_file_folder:
+:floppy_disk: [Gráfico de setor circular](https://docs.google.com/spreadsheets/d/1urGPj0STevPWIndzvsh3pK6eLwpavAhnSgN4xz9Ampc/edit?usp=sharing) também, popularmente, chamado de gráfico de pizza :pizza:
 
 # 8 Ano :open_file_folder:
 
