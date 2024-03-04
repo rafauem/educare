@@ -25,6 +25,6 @@
 
 :green_book: [Aula 02](https://github.com/rafauem/educare/blob/main/docs/3EMAula02.pdf)
 
-:blue_book: [Aula 03]()
+:blue_book: [Aula 03](https://github.com/rafauem/educare/blob/main/docs/3EM%20-%20Aula%2003.pdf)
 
 :orange_book: [Aula 04]()
