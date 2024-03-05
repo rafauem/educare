@@ -9,7 +9,7 @@
 
 :triangular_ruler: [Resumo: Congruência de Triângulos](https://github.com/rafauem/educare/blob/main/docs/8a-congruencia-triangulo.pdf)
 
-:pencil2:
+:pencil2: Revisão [PDF]() ou [PPT]()
 
 :straight_ruler:
 
