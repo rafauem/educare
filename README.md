@@ -19,6 +19,8 @@
 
 # 2 EM :open_file_folder:
 
+[Aula 2](https://github.com/rafauem/educare/blob/main/docs/2EM-Aula02.pdf)
+
 # 3 EM :open_file_folder:
 
 :closed_book: [Aula 01](https://github.com/rafauem/educare/blob/main/docs/3EMAula01.pdf)
