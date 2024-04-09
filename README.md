@@ -9,7 +9,9 @@
 
 :triangular_ruler: [Resumo: Congruência de Triângulos](https://github.com/rafauem/educare/blob/main/docs/8a-congruencia-triangulo.pdf)
 
-:pencil2: Revisão [PDF](https://github.com/rafauem/educare/blob/main/docs/Revis%C3%A3o%20AV1%201B.pdf) ou [PPT](https://github.com/rafauem/educare/blob/main/docs/Revis%C3%A3o%20AV1%201B.pptx)
+:pencil2: 1° Revisão [PDF](https://github.com/rafauem/educare/blob/main/docs/Revis%C3%A3o%20AV1%201B.pdf) 
+
+:pencil2: 2° Revisão [PDF](https://github.com/rafauem/educare/blob/main/docs/Revis%C3%A3o%20-%202P%201B.pdf)
 
 :straight_ruler:
 
