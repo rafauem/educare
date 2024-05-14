@@ -6,8 +6,6 @@
 
 # 8 Ano :open_file_folder:
 
-:triangular_ruler: [Resumo: Congruência de Triângulos](https://github.com/rafauem/educare/blob/main/docs/8a-congruencia-triangulo.pdf)
-
 :pencil2: 1° Revisão [PDF](https://github.com/rafauem/educare/blob/main/docs/1Revis%C3%A3o-8A-1P-2Bi.pdf) 
 
 :pencil2: 2° Revisão [PDF]()
@@ -20,14 +18,5 @@
 
 # 2 EM :open_file_folder:
 
-[Aula 2](https://github.com/rafauem/educare/blob/main/docs/2EM-Aula02.pdf)
-
 # 3 EM :open_file_folder:
 
-:closed_book: [Aula 01](https://github.com/rafauem/educare/blob/main/docs/3EMAula01.pdf)
-
-:green_book: [Aula 02](https://github.com/rafauem/educare/blob/main/docs/3EMAula02.pdf)
-
-:blue_book: [Aula 03](https://github.com/rafauem/educare/blob/main/docs/3EMAula03.pdf)
-
-:orange_book: [Aula 04]()
