@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-Para participar da chamada de vídeo no dia 28/05/24, clique no link abaixo:  
-<a href="http://meet.google.com/uuz-vuvk-wjv/">CLICK AQUI</a>
+<a href="http://meet.google.com/uuz-vuvk-wjv/">Para participar da chamada de vídeo no dia 28/05/24, CLICK AQUI</a>
 </p>
 
 # 7 Ano :open_file_folder:
