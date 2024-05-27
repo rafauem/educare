@@ -2,8 +2,10 @@
   <img src="https://colegioeducareumuarama.com.br/wp-content/uploads/2021/10/logo-educare01.svg" width="250" title="logo">
 </p>
 
+<p align="center">
 Para participar da chamada de vídeo no dia 28/05/24, clique no link abaixo:  
-<a href=“http://meet.google.com/uuz-vuvk-wjv/“>CLICK AQUI</a>
+<a href="http://meet.google.com/uuz-vuvk-wjv/">CLICK AQUI</a>
+</p>
 
 # 7 Ano :open_file_folder:
 
