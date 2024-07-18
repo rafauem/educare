@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://meet.google.com/vew-mggg-vco">Para participar da chamada de vídeo no dia 05/06/24, CLICK AQUI</a>
+<a href="https://google.com">Para participar da chamada de vídeo no dia ???, CLICK AQUI</a>
 </p>
 
 # 7 Ano :open_file_folder:
